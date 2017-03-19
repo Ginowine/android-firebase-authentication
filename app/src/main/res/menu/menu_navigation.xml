@@ -5,11 +5,11 @@
         android:id="@+id/main_menu">
         <item
             android:id="@+id/payment"
-            android:title="Payment"
+            android:title="Home"
             android:icon="@drawable/ic_android_black_24dp"/>
         <item
             android:id="@+id/trip"
-            android:title="Your Trip"
+            android:title="Ship"
             android:icon="@drawable/ic_build_black_24dp"/>
         <item
             android:id="@+id/freebie"
